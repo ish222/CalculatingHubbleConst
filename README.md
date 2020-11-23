@@ -1,5 +1,5 @@
-# ageOfTheUniverse
-Calculating the age of the universe using data obtained from the University of London Observatory.
+# CalculatingHubbleConst
+Calculating the Hubble constant using public data from the Hubble telescope.
 Some relevant statistical techniques used include:
 - Least squares fitting
 - Calculating and plotting residuals
